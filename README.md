@@ -16,6 +16,14 @@ In terminal proceed to wanted directory and run this:
 git clone https://github.com/heeveG/IMBd_analyzer
 ```
 
+Then, go to https://datasets.imdbws.com/ and download files with data to your directory
+Needed files:
+* `title.akas.tsv.gz`
+* `title.basics.tsv.gz`
+* `title.principals.tsv.gz`
+* `title.ratings.tsv.gz`
+* `name.basics.tsv.gz`
+
 After, run python main.py module and interact!
 
 
