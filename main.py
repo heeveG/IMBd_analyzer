@@ -81,3 +81,6 @@ def main():
         write_file(rate)
 
     print("\nYou can check the rating information in 'own_ratings.txt' file")
+
+if __name__ == "__main__":
+    main()
